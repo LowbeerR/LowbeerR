@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <hr>
 
 ### About me
+I'm a swedish student stydying IT at KTH Royal Institute of Technology. Here I upload my solotions to the exercises and/or projects I solve in my courses.
+
 
 Email:
 
@@ -25,3 +27,11 @@ Email:
 My Socials:
 
 <a href="https://www.linkedin.com/in/rikard-löwbeer/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+
+
+### Github Stats
+
+<p align="center" width="100%">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=LowbeerR&theme=dark&date_format=j%20M%5B%20Y%5D&background=0D1117&sideLabels=ADBAC7&currStreakLabel=FF6600&border=30363D&stroke=0D1117&ring=FF6600&fire=FF6600&dates=ADBAC7&currStreakNum=ADBAC7&sideNums=ADBAC7"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowbeerR&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
