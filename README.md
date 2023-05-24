@@ -26,7 +26,9 @@ Email:
 
 My Socials:
 
-<a href="https://www.linkedin.com/in/rikard-löwbeer/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/rikard-löwbeer/">
+  <img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" width="110" height="28" />
+</a>
 
 
 ### Github Stats
