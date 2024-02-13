@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <hr>
 
 ### About me
-I'm a swedish student studying IT at KTH Royal Institute of Technology. Here I upload my solutions to the exercises and/or projects I solve in my courses.
+I'm a Swedish student studying IT at KTH Royal Institute of Technology. Here I upload my solutions to the exercises and/or projects I solve in my courses.
 
 
 Email:
